@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{9755DC0F-37FB-43EC-8388-3289D2895661}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Main.storyboard">
+    <Files>
+      <File FileName="iOS/Main.storyboard" />
+      <File FileName="iOS/ViewController.cs" Line="10" Column="60" />
+      <File FileName="iOS/MasterViewController.cs" Line="9" Column="66" />
+      <File FileName="iOS/MasterViewController.designer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.hanyu.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1497493E-34AC-466F-996C-946697CA5C1B" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.hanyu.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus_5X_API_23" />
+  <MultiItemStartupConfigurations />
+</Properties>
